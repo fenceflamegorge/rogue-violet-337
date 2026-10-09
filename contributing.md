@@ -109,4 +109,4 @@ No. There is no telemetry and no cloud upload - it is fully local.
 
 ---
 
-*rogue-violet-337 · Updated 2026-10-08 · Shared under the MIT License*
+*rogue-violet-337 · Updated 2026-10-09 · Shared under the MIT License*
